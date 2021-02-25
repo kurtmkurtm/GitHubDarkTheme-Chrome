@@ -1,6 +1,6 @@
 # GitHub Dark Theme for Chrome
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hjijpoppdakichlibbhdhbjahaiifdke)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hjijpoppdakichlibbhdhbjahaiifdke)](https://chrome.google.com/webstore/detail/github-dark-theme/hjijpoppdakichlibbhdhbjahaiifdke)
 
 Unofficial theme for Google Chrome using GitHub dark mode colours
 
