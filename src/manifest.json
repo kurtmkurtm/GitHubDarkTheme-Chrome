@@ -1,0 +1,26 @@
+{
+   "description": "Unofficial theme inspired by dark mode on GitHub",
+   "manifest_version": 2,
+   "name": "GitHub Dark Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 201, 209, 217 ],
+         "frame": [ 13, 17, 23 ],
+         "ntp_background": [ 13, 17, 23 ],
+         "ntp_text": [ 201, 209, 217 ],
+         "tab_background_text": [ 201, 209, 217 ],
+         "tab_background_text_inactive": [ 201, 209, 217 ],
+         "tab_background_text_incognito": [ 201, 209, 217 ],
+         "tab_background_text_incognito_inactive": [ 201, 209, 217 ],
+         "tab_text": [ 240, 246, 252 ],
+         "toolbar": [ 22, 27, 34 ]
+      },
+      "tints": {
+         "buttons": [ 0.2, 0.2, 0.9 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "version": "0.1"
+}
